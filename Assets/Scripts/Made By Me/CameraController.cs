@@ -9,14 +9,29 @@ public class CameraController : MonoBehaviour
     float xChange;
     public float sensitivity;
 
+    // Boolean Variables
+    bool active;
+
     // Start is called before the first frame update
     void Start()
     {
         xRot = 0f;
+
+        active = true;
     }
 
     // Update is called once per frame
     void Update()
+    {
+        // Turns on and off the camera follow
+        if(Input.GetKeyDown(KeyCode.C)) { active = !active; }
+        
+        // Only calls RotateCamera() if the player has pressed C an odd number of times
+        if(active) { RotateCamera(); }
+    }
+
+    // Updates the rotation of the camera to follow the mouse
+    void RotateCamera()
     {
         xChange = Input.GetAxis("Mouse Y") * -1 * sensitivity;
         

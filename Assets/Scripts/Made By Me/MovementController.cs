@@ -10,17 +10,27 @@ public class MovementController : MonoBehaviour
     float yChange;
     public float sensitivity;
 
+    // Boolean Variables
+    bool active;
+
     // Start is called before the first frame update
     void Start()
     {
         yRot = 0f;
+
+        active = true;
     }
 
     // Update is called once per frame
     void Update()
     {
-        ButtonMove();
-        RotateWithCamera();
+        ButtonMove();        
+
+        // Turns on and off the camera follow
+        if(Input.GetKeyDown(KeyCode.C)) { active = !active; }
+        
+        // Only calls RotateWithCamera() if the player has pressed C an odd number of times
+        if(active) { RotateWithCamera(); }
     }
 
     // Moves the Player
