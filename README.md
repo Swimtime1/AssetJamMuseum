@@ -16,5 +16,6 @@ SOUND
 * Meso_Moves.mp3 by Adrian Connor
 * Hyper_Tomb.mp3 by Zacchary Edwards
 * Voice Lines by Gabriel Weredyk
+* Ancient_Chinese_Music.mp3 by Jared Lee, Elia Poncia
 
 SCRIPTS
