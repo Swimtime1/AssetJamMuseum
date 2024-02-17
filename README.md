@@ -15,5 +15,6 @@ SOUND
 * Ancient_Civ_Jam.wav by Allan Tan
 * Meso_Moves.mp3 by Adrian Connor
 * Hyper_Tomb.mp3 by Zacchary Edwards
+* Voice Lines by Gabriel Weredyk
 
 SCRIPTS
