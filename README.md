@@ -10,6 +10,7 @@ ART
 * ball.png by Adrian Connor
 * moon.png by Adrian Connor
 * sun.png by Adrian Connor
+* AxMan.png by Hayden Ferguson
 
 SOUND
 * Ancient_Civ_Jam.wav by Allan Tan
