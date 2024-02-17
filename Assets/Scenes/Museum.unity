@@ -4265,6 +4265,85 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 90, y: 0, z: 0}
+--- !u!1001 &735636585
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 2112931379}
+    m_Modifications:
+    - target: {fileID: 4230908385858659457, guid: 75fc8217c7233a24a9c354e72ebbe9b7, type: 3}
+      propertyPath: m_audioClip
+      value: 
+      objectReference: {fileID: 8300000, guid: 8f7743fd89b0bf54a976bda8b52032da, type: 3}
+    - target: {fileID: 5049991856541501633, guid: 75fc8217c7233a24a9c354e72ebbe9b7, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5049991856541501633, guid: 75fc8217c7233a24a9c354e72ebbe9b7, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5049991856541501633, guid: 75fc8217c7233a24a9c354e72ebbe9b7, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5049991856541501633, guid: 75fc8217c7233a24a9c354e72ebbe9b7, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5049991856541501633, guid: 75fc8217c7233a24a9c354e72ebbe9b7, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5049991856541501633, guid: 75fc8217c7233a24a9c354e72ebbe9b7, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5049991856541501633, guid: 75fc8217c7233a24a9c354e72ebbe9b7, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5049991856541501633, guid: 75fc8217c7233a24a9c354e72ebbe9b7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5049991856541501633, guid: 75fc8217c7233a24a9c354e72ebbe9b7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5049991856541501633, guid: 75fc8217c7233a24a9c354e72ebbe9b7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6153335296197192912, guid: 75fc8217c7233a24a9c354e72ebbe9b7, type: 3}
+      propertyPath: m_Name
+      value: Gabe's Voice Line (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 9181273557292964330, guid: 75fc8217c7233a24a9c354e72ebbe9b7, type: 3}
+      propertyPath: m_text
+      value: 'Name: Voice Line 5
+
+        Type: Voice Acting
+
+        By: Gabriel
+        Weredyk'
+      objectReference: {fileID: 0}
+    - target: {fileID: 9181273557292964330, guid: 75fc8217c7233a24a9c354e72ebbe9b7, type: 3}
+      propertyPath: m_fontSize
+      value: 0.05
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 75fc8217c7233a24a9c354e72ebbe9b7, type: 3}
+--- !u!4 &735636586 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5049991856541501633, guid: 75fc8217c7233a24a9c354e72ebbe9b7, type: 3}
+  m_PrefabInstance: {fileID: 735636585}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &742119468
 GameObject:
   m_ObjectHideFlags: 0
@@ -5473,6 +5552,85 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 996678823}
   m_CullTransparentMesh: 1
+--- !u!1001 &1000283621
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 2112931379}
+    m_Modifications:
+    - target: {fileID: 4230908385858659457, guid: 75fc8217c7233a24a9c354e72ebbe9b7, type: 3}
+      propertyPath: m_audioClip
+      value: 
+      objectReference: {fileID: 8300000, guid: b9429b9653ee6ea4a95399c903134416, type: 3}
+    - target: {fileID: 5049991856541501633, guid: 75fc8217c7233a24a9c354e72ebbe9b7, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5049991856541501633, guid: 75fc8217c7233a24a9c354e72ebbe9b7, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5049991856541501633, guid: 75fc8217c7233a24a9c354e72ebbe9b7, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5049991856541501633, guid: 75fc8217c7233a24a9c354e72ebbe9b7, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5049991856541501633, guid: 75fc8217c7233a24a9c354e72ebbe9b7, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5049991856541501633, guid: 75fc8217c7233a24a9c354e72ebbe9b7, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5049991856541501633, guid: 75fc8217c7233a24a9c354e72ebbe9b7, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5049991856541501633, guid: 75fc8217c7233a24a9c354e72ebbe9b7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5049991856541501633, guid: 75fc8217c7233a24a9c354e72ebbe9b7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5049991856541501633, guid: 75fc8217c7233a24a9c354e72ebbe9b7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6153335296197192912, guid: 75fc8217c7233a24a9c354e72ebbe9b7, type: 3}
+      propertyPath: m_Name
+      value: Gabe's Voice Line (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 9181273557292964330, guid: 75fc8217c7233a24a9c354e72ebbe9b7, type: 3}
+      propertyPath: m_text
+      value: 'Name: Voice Line 4
+
+        Type: Voice Acting
+
+        By: Gabriel
+        Weredyk'
+      objectReference: {fileID: 0}
+    - target: {fileID: 9181273557292964330, guid: 75fc8217c7233a24a9c354e72ebbe9b7, type: 3}
+      propertyPath: m_fontSize
+      value: 0.05
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 75fc8217c7233a24a9c354e72ebbe9b7, type: 3}
+--- !u!4 &1000283622 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5049991856541501633, guid: 75fc8217c7233a24a9c354e72ebbe9b7, type: 3}
+  m_PrefabInstance: {fileID: 1000283621}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1028979040
 GameObject:
   m_ObjectHideFlags: 0
@@ -7537,6 +7695,111 @@ Canvas:
   m_SortingLayerID: 0
   m_SortingOrder: 0
   m_TargetDisplay: 0
+--- !u!1 &1603811529
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1603811530}
+  - component: {fileID: 1603811533}
+  - component: {fileID: 1603811532}
+  - component: {fileID: 1603811531}
+  m_Layer: 0
+  m_Name: Exit Door Wall
+  m_TagString: ExitArt
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1603811530
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1603811529}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: -0.5030181, z: -1}
+  m_LocalScale: {x: 0.15, y: 0.0060362173, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1946833983}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &1603811531
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1603811529}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!23 &1603811532
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1603811529}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: 39bbfc762c4c73742ad9f77181b957c2, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!33 &1603811533
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1603811529}
+  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
 --- !u!1 &1622811827
 GameObject:
   m_ObjectHideFlags: 0
@@ -8604,6 +8867,7 @@ Transform:
   m_Children:
   - {fileID: 1659113813}
   - {fileID: 887069907}
+  - {fileID: 1603811530}
   - {fileID: 785701669}
   - {fileID: 313563416}
   - {fileID: 1675358334}
@@ -8680,6 +8944,85 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1946833982}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!1001 &1972396928
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 2112931379}
+    m_Modifications:
+    - target: {fileID: 4230908385858659457, guid: 75fc8217c7233a24a9c354e72ebbe9b7, type: 3}
+      propertyPath: m_audioClip
+      value: 
+      objectReference: {fileID: 8300000, guid: 7bbb2af595bb2b34e84c36ae2ab5589a, type: 3}
+    - target: {fileID: 5049991856541501633, guid: 75fc8217c7233a24a9c354e72ebbe9b7, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5049991856541501633, guid: 75fc8217c7233a24a9c354e72ebbe9b7, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5049991856541501633, guid: 75fc8217c7233a24a9c354e72ebbe9b7, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5049991856541501633, guid: 75fc8217c7233a24a9c354e72ebbe9b7, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5049991856541501633, guid: 75fc8217c7233a24a9c354e72ebbe9b7, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5049991856541501633, guid: 75fc8217c7233a24a9c354e72ebbe9b7, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5049991856541501633, guid: 75fc8217c7233a24a9c354e72ebbe9b7, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5049991856541501633, guid: 75fc8217c7233a24a9c354e72ebbe9b7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5049991856541501633, guid: 75fc8217c7233a24a9c354e72ebbe9b7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5049991856541501633, guid: 75fc8217c7233a24a9c354e72ebbe9b7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6153335296197192912, guid: 75fc8217c7233a24a9c354e72ebbe9b7, type: 3}
+      propertyPath: m_Name
+      value: Gabe's Voice Line (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 9181273557292964330, guid: 75fc8217c7233a24a9c354e72ebbe9b7, type: 3}
+      propertyPath: m_text
+      value: 'Name: Voice Line 2
+
+        Type: Voice Acting
+
+        By: Gabriel
+        Weredyk'
+      objectReference: {fileID: 0}
+    - target: {fileID: 9181273557292964330, guid: 75fc8217c7233a24a9c354e72ebbe9b7, type: 3}
+      propertyPath: m_fontSize
+      value: 0.05
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 75fc8217c7233a24a9c354e72ebbe9b7, type: 3}
+--- !u!4 &1972396929 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5049991856541501633, guid: 75fc8217c7233a24a9c354e72ebbe9b7, type: 3}
+  m_PrefabInstance: {fileID: 1972396928}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1981223216
 GameObject:
   m_ObjectHideFlags: 0
@@ -8715,6 +9058,85 @@ Transform:
   - {fileID: 1686265219}
   m_Father: {fileID: 640338748}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &1997319851
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 2112931379}
+    m_Modifications:
+    - target: {fileID: 4230908385858659457, guid: 75fc8217c7233a24a9c354e72ebbe9b7, type: 3}
+      propertyPath: m_audioClip
+      value: 
+      objectReference: {fileID: 8300000, guid: f1907508114cb5e4c8a45f6c14bfd472, type: 3}
+    - target: {fileID: 5049991856541501633, guid: 75fc8217c7233a24a9c354e72ebbe9b7, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5049991856541501633, guid: 75fc8217c7233a24a9c354e72ebbe9b7, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5049991856541501633, guid: 75fc8217c7233a24a9c354e72ebbe9b7, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5049991856541501633, guid: 75fc8217c7233a24a9c354e72ebbe9b7, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5049991856541501633, guid: 75fc8217c7233a24a9c354e72ebbe9b7, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5049991856541501633, guid: 75fc8217c7233a24a9c354e72ebbe9b7, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5049991856541501633, guid: 75fc8217c7233a24a9c354e72ebbe9b7, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5049991856541501633, guid: 75fc8217c7233a24a9c354e72ebbe9b7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5049991856541501633, guid: 75fc8217c7233a24a9c354e72ebbe9b7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5049991856541501633, guid: 75fc8217c7233a24a9c354e72ebbe9b7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6153335296197192912, guid: 75fc8217c7233a24a9c354e72ebbe9b7, type: 3}
+      propertyPath: m_Name
+      value: Gabe's Voice Line (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 9181273557292964330, guid: 75fc8217c7233a24a9c354e72ebbe9b7, type: 3}
+      propertyPath: m_text
+      value: 'Name: Voice Line 1
+
+        Type: Voice Acting
+
+        By: Gabriel
+        Weredyk'
+      objectReference: {fileID: 0}
+    - target: {fileID: 9181273557292964330, guid: 75fc8217c7233a24a9c354e72ebbe9b7, type: 3}
+      propertyPath: m_fontSize
+      value: 0.05
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 75fc8217c7233a24a9c354e72ebbe9b7, type: 3}
+--- !u!4 &1997319852 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5049991856541501633, guid: 75fc8217c7233a24a9c354e72ebbe9b7, type: 3}
+  m_PrefabInstance: {fileID: 1997319851}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &2015232840
 GameObject:
   m_ObjectHideFlags: 0
@@ -9237,6 +9659,11 @@ Transform:
   - {fileID: 1904760130}
   - {fileID: 123826513}
   - {fileID: 558810422}
+  - {fileID: 1997319852}
+  - {fileID: 1972396929}
+  - {fileID: 2138306455}
+  - {fileID: 1000283622}
+  - {fileID: 735636586}
   m_Father: {fileID: 1938119140}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2119718100
@@ -9384,6 +9811,85 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2137390008}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!1001 &2138306454
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 2112931379}
+    m_Modifications:
+    - target: {fileID: 4230908385858659457, guid: 75fc8217c7233a24a9c354e72ebbe9b7, type: 3}
+      propertyPath: m_audioClip
+      value: 
+      objectReference: {fileID: 8300000, guid: 1390e39e71454ed438fb4a21d9b4af02, type: 3}
+    - target: {fileID: 5049991856541501633, guid: 75fc8217c7233a24a9c354e72ebbe9b7, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5049991856541501633, guid: 75fc8217c7233a24a9c354e72ebbe9b7, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5049991856541501633, guid: 75fc8217c7233a24a9c354e72ebbe9b7, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5049991856541501633, guid: 75fc8217c7233a24a9c354e72ebbe9b7, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5049991856541501633, guid: 75fc8217c7233a24a9c354e72ebbe9b7, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5049991856541501633, guid: 75fc8217c7233a24a9c354e72ebbe9b7, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5049991856541501633, guid: 75fc8217c7233a24a9c354e72ebbe9b7, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5049991856541501633, guid: 75fc8217c7233a24a9c354e72ebbe9b7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5049991856541501633, guid: 75fc8217c7233a24a9c354e72ebbe9b7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5049991856541501633, guid: 75fc8217c7233a24a9c354e72ebbe9b7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6153335296197192912, guid: 75fc8217c7233a24a9c354e72ebbe9b7, type: 3}
+      propertyPath: m_Name
+      value: Gabe's Voice Line (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 9181273557292964330, guid: 75fc8217c7233a24a9c354e72ebbe9b7, type: 3}
+      propertyPath: m_text
+      value: 'Name: Voice Line 3
+
+        Type: Voice Acting
+
+        By: Gabriel
+        Weredyk'
+      objectReference: {fileID: 0}
+    - target: {fileID: 9181273557292964330, guid: 75fc8217c7233a24a9c354e72ebbe9b7, type: 3}
+      propertyPath: m_fontSize
+      value: 0.05
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 75fc8217c7233a24a9c354e72ebbe9b7, type: 3}
+--- !u!4 &2138306455 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5049991856541501633, guid: 75fc8217c7233a24a9c354e72ebbe9b7, type: 3}
+  m_PrefabInstance: {fileID: 2138306454}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &2139084513
 GameObject:
   m_ObjectHideFlags: 0
