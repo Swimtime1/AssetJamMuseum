@@ -9,9 +9,14 @@ public class MovementController : MonoBehaviour
     float yRot;
     float yChange;
     public float sensitivity;
+    float xPosWorld, yPosWorld, zPosWorld;
 
     // Boolean Variables
     bool active;
+    bool transition;
+
+    // GameObject Variables
+    public GameObject cam;
 
     // Start is called before the first frame update
     void Start()
@@ -19,6 +24,7 @@ public class MovementController : MonoBehaviour
         yRot = 0f;
 
         active = true;
+        transition = false;
     }
 
     // Update is called once per frame
@@ -69,5 +75,35 @@ public class MovementController : MonoBehaviour
         yRot += yChange;
         
         transform.localEulerAngles = new Vector3(0, yRot, 0);
+    }
+
+    // Called when the Player first touches a trigger
+    void OnTriggerEnter(Collider other)
+    {
+        transition = !transition;
+        
+        xPosWorld = transform.position.x;
+        yPosWorld = transform.position.y;
+        zPosWorld = transform.position.z;
+
+        // Moves the player if they just entered a doorway
+        if(transition)
+        {
+            cam.SetActive(false);
+            
+            // Chooses which doorway to go to
+            if(other.gameObject.CompareTag("ToArt"))
+            { transform.Translate(0, 0, 230, Space.World); }
+            else if(other.gameObject.CompareTag("ExitArt"))
+            { transform.Translate(0, 0, -230, Space.World); }
+            else if(other.gameObject.CompareTag("ToMusic") 
+                    || other.gameObject.CompareTag("ExitProgramming"))
+            { transform.Translate(-230, 0, 0, Space.World); }
+            else if(other.gameObject.CompareTag("ExitMusic") 
+                    || other.gameObject.CompareTag("ToProgramming"))
+            { transform.Translate(230, 0, 0, Space.World); }
+
+            cam.SetActive(true);
+        }
     }
 }
