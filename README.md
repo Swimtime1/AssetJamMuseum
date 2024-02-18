@@ -10,11 +10,13 @@ ART
 * ball.png by Adrian Connor
 * moon.png by Adrian Connor
 * sun.png by Adrian Connor
+* AxMan.png by Hayden Ferguson
 
 SOUND
 * Ancient_Civ_Jam.wav by Allan Tan
 * Meso_Moves.mp3 by Adrian Connor
 * Hyper_Tomb.mp3 by Zacchary Edwards
 * Voice Lines by Gabriel Weredyk
+* Ancient_Chinese_Music.mp3 by Jared Lee, Elia Poncia
 
 SCRIPTS
