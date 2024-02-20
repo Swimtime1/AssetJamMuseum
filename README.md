@@ -11,6 +11,7 @@ ART
 * moon.png by Adrian Connor
 * sun.png by Adrian Connor
 * AxMan.png by Hayden Ferguson
+* TwoEraBrawlers.anim by Alexander Hertz
 
 SOUND
 * Ancient_Civ_Jam.wav by Allan Tan
