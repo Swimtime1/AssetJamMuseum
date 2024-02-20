@@ -12,6 +12,8 @@ ART
 * sun.png by Adrian Connor
 * AxMan.png by Hayden Ferguson
 * TwoEraBrawlers.anim by Alexander Hertz
+* jade_coin_spin.anim by Kevin Liu, Claire Chen, Khayniyah Culpepper
+* tea_steam.anim by Kevin Liu, Claire Chen, Khayniyah Culpepper
 
 SOUND
 * Ancient_Civ_Jam.wav by Allan Tan
