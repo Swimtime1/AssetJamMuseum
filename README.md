@@ -23,3 +23,5 @@ SOUND
 * Ancient_Chinese_Music.mp3 by Jared Lee, Elia Poncia
 
 SCRIPTS
+
+Unity Version: 2022.3.17f1
